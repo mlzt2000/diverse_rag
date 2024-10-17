@@ -1,0 +1,6 @@
+[submodule "benchmarks/RGB"]
+	path = benchmarks/RGB
+	url = https://github.com/mlzt2000/RGB.git
+[submodule "models/unlimiformer"]
+	path = models/unlimiformer
+	url = https://github.com/mlzt2000/unlimiformer.git
